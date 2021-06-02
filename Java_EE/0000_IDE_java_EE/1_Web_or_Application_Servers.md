@@ -71,7 +71,7 @@ Application Server:
 
 others:
 
-  -[netty](https://netty.io/)
-  -[geronimo](http://geronimo.apache.org/)
+  - [netty](https://netty.io/)
+  - [geronimo](http://geronimo.apache.org/)
 
 ** more read [List on Wikipedia](https://en.wikipedia.org/wiki/List_of_application_servers#Java)
